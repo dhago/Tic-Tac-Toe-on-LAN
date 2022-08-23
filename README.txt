@@ -1,5 +1,3 @@
-*************CS19B004***************
-
 /////////////TICTACTOE//////////////
 Commands:
 	Compile the codes
@@ -28,4 +26,4 @@ To set timeout thresholds, change the #defines in yapp.c
 To run -> gcc yapp.c -o yapp
        -> sudo ./yapp X.X.X.X
 Returns RTT if ping was succesful.
-(Checksum and basic structure borrowed from ping.c)
+(Checksum and basic structure borrowed from ping's implementation)
